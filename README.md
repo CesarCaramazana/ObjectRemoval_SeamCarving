@@ -18,4 +18,4 @@ In spite of the wonders it can offer, our algorithm, as well as the original Sea
 ![o3](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r3.PNG?raw=True)
 
 
-*All the images used were retrieved from the public repository: https://pixabay.com *
+*All the images used for testing were retrieved from the public repository*: https://pixabay.com 
