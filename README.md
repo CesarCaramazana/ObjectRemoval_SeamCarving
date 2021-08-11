@@ -1,5 +1,4 @@
-# ObjectRemoval_SeamCarving
-Object removal algorithm based on Seam Carving
+# Object Removal with SeamCarving
 
 *This object removal algorithm was developed by César Caramazana and José Julián Gallardo, as the final project of a Digital Image Processing course*. 
 
