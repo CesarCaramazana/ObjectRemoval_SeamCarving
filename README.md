@@ -13,4 +13,4 @@ In spite of the wonders it can offer, our algorithm, as well as the original Sea
 
 ![o2](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r2.PNG?raw=True)
 
-![o3](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r1.PNG?raw=True)
+![o3](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r3.PNG?raw=True)
