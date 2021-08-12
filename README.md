@@ -8,13 +8,20 @@ We added some key modifications to the original implementation so that it takes 
 
 ![o0](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/seam.PNG?raw=True)
 
-In spite of the wonders it can offer, our algorithm, as well as the original Seam Carving, cannot avoid some failure cases, in which artefacts are notorious and the results are unsatisfactory. However, we postprocessed the outputs with low-pass gaussian filters to blur these artefacts and achieve some better-looking images. The examples are shown below:
+In spite of the wonders it can offer, our algorithm, as well as the original Seam Carving, cannot avoid some failure cases, in which artefacts are notorious and the results are unsatisfactory. 
+
+![o3](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r5.PNG?raw=True)
+
+
+However, we postprocessed the outputs with low-pass gaussian filters to blur these artefacts and achieve some better-looking images. The examples are shown below:
 
 ![o1](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r1.PNG?raw=True)
 
 ![o2](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r2.PNG?raw=True)
 
 ![o3](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r3.PNG?raw=True)
+
+![o3](https://github.com/CesarCaramazana/ObjectRemoval_SeamCarving/blob/main/images/ob_r4.PNG?raw=True)
 
 
 *All the images used for testing were retrieved from the public repository*: https://pixabay.com 
